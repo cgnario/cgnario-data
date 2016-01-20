@@ -1,0 +1,244 @@
+{
+    "REF#01": {
+        "title": "Moratorium für Jüdisches Museum",
+        "district": {
+            "name": "City",
+            "stvnr": "10305"
+        },
+        "description": "Der Rat beschließt für das Projekt 'Archäologische Zone/Juüdisches Museum' ein Moratorium für den Hochbaubereich auf dem Rathausvorplatz. Während des Moratoriums sind die bisherigen Planungen und baulichen Maßnahmen für den Neubau eines Jüdischen Museums auszusetzen.",
+        "position": [
+            "50.93784",
+            "6.95859"
+        ],
+        "status": 2,
+        "party": {
+            "SPD": "2",
+            "CDU": "1",
+            "B90": "2",
+            "FDP": "2",
+            "PK": "1",
+            "LNK": "2",
+            "KBB": "1",
+            "FRND": "1"
+        },
+        "prio": 1
+    },
+    "REF#02": {
+        "title": "Realisierung des Stadtteils 'Kreuzfeld'",
+        "district": {
+            "name": "Weiler",
+            "stvnr": "60802"
+        },
+        "description": "Um die Wohnungsknappheit zu Reduzieren wird der Stadtteil 'Kreuzfeld' realisiert. Alle Beschlüsse,die zum Inhalt hatten, die Planungen auszusetzen bzw. gänzlich zu stoppen, werden aufgehoben.",
+        "position": [
+            "51.02876",
+            "6.88062"
+        ],
+        "status": 2,
+        "party": {
+            "SPD": "2",
+            "CDU": "2",
+            "B90": "2",
+            "FDP": "1",
+            "PK": "2",
+            "LNK": "1",
+            "KBB": "2",
+            "FRND": "2"
+        },
+        "prio": 1
+    },
+    "REF#03": {
+        "title": "Moratorium Godorfer Hafen",
+        "district": {
+            "name": "Gl Godorf-Ost",
+            "stvnr": "21102"
+        },
+        "description": "Es ist eine neue Wirtschaftlichkeitsrechnung erforderlich. Bis diese erfolgt ist müssen alle Entscheidungen über den Ausbau des Godorfer Hafens zurückgestellt werden.",
+        "position": [
+            "50.85209",
+            "6.99065"
+        ],
+        "status": 2,
+        "party": {
+            "SPD": "2",
+            "CDU": "2",
+            "B90": "1",
+            "FDP": "1",
+            "PK": "1",
+            "LNK": "2",
+            "KBB": "1",
+            "FRND": "1"
+        },
+        "prio": 1
+    },
+    "REF#04": {
+        "title": "Abriss und Neubau einer Grundschule",
+        "district": {
+            "name": "Volkhofen",
+            "stvnr": "60801"
+        },
+        "description": "Der Rat genehmigt den Entwurf und die Kostenberechnung für den Abriss der bestehenden Schulgebäude und den Neubau einer Grundschule in Köln-Volkhoven/Weiler, Fühlinger Weg 7.",
+        "position": [
+            "51.01926",
+            "6.88516"
+        ],
+        "status": 1,
+        "party": {
+            "SPD": "1",
+            "CDU": "1",
+            "B90": "1",
+            "FDP": "2",
+            "PK": "1",
+            "LNK": "1",
+            "KBB": "1",
+            "FRND": "1"
+        },
+        "prio": 1
+    },
+    "REF#05": {
+        "title": "Neuer Stadtteil 'Butzweiler'",
+        "district": {
+            "name": "GE Ossendorf",
+            "stvnr": "40602"
+        },
+        "description": "Der Rat der Stadt Köln beschließt, dass in § 1 Abs. 2 der Hauptsatzung der Stadt Köln im Stadtbezirk 4 (Ehrenfeld) der Stadtteil Butzweiler ergänzt wird.",
+        "position": [
+            "50.96840",
+            "6.90392"
+        ],
+        "status": 2,
+        "party": {
+            "SPD": "2",
+            "CDU": "2",
+            "B90": "2",
+            "FDP": "1",
+            "PK": "2",
+            "LNK": "2",
+            "KBB": "2",
+            "FRND": "2"
+            
+        },
+        "prio": 1
+    },
+    "REF#06": {
+        "title": "Plan Ehrenfeldgürtel bis Mülheimer Brücke fortzuführen",
+        "district": {
+            "name": "Neuehrenfeld",
+            "stvnr": ""
+        },
+        "description": "Der Rat beschließt Planungen, den Ehrenfeldgürtel bis zur Mühlheimer Brücke fortzuführen.",
+        "position": [
+            "50.95530",
+            "6.92202"
+        ],
+        "status": 1,
+        "party": {
+            "SPD": "1",
+            "CDU": "2",
+            "B90": "1",
+            "FDP": "2",
+            "PK": "2",
+            "LNK": "1",
+            "KBB": "2",
+            "FRND": "1"
+        },
+        "prio": 1
+    },
+    "REF#07": {
+        "title": "Teilinbetriebnahme der Stadtbahn zw. Severinstr. und Rodenkirchen",
+        "district": {
+            "name": "Severins-Viertel",
+            "stvnr": "10106"
+        },
+        "description": "Der Rat beschließt die Nord-Süd-Stadtbahn zwischen Severinstraße und Rodenkirchen in Betrieb zu nehmen.",
+        "position": [
+            "50.92896",
+            "6.95654"
+        ],
+        "status": 1,
+        "party": {
+            "SPD": "2",
+            "CDU": "1",
+            "B90": "1",
+            "FDP": "1",
+            "PK": "1",
+            "LNK": "2",
+            "KBB": "2",
+            "FRND": "1"
+        },
+        "prio": 1
+    },
+    "REF#08": {
+        "title": "Neubau des Historischen Archivs",
+        "district": {
+            "name": "Martins-Viertel",
+            "stvnr": "10306"
+        },
+        "description": "Die Verwaltung wird beauftragt, eine Alternativplanung für das neue Historische Archiv ohne KMB vorzulegen und die technischen Standards der Archivierung zu prüfen",
+        "position": [
+            "50.93467",
+            "6.96211"
+        ],
+        "status": 1,
+        "party": {
+            "SPD": "1",
+            "CDU": "2",
+            "B90": "1",
+            "FDP": "2",
+            "PK": "2",
+            "LNK": "2",
+            "KBB": "1",
+            "FRND": "2"
+        },
+        "prio": 1
+    },
+    "REF#09": {
+        "title": "Entwicklung des Güterbahnhofs Mülheim",
+        "district": {
+            "name": "GE Schanzenstr.",
+            "stvnr": "90108"
+        },
+        "description": "Die Verwaltung wird beauftragt, umgehend Gespräche mit dem neuen Eigentümer der Industriebrache 'Alter Güterbahnhof Mülheim' aufzunehmen. Ziel der Gespräche soll die zügige Entwicklung des Geländes im Sinne des Handlungskonzeptes 'Mülheim 2020' sein.",
+        "position": [
+            "50.96927",
+            "7.01389"
+        ],
+        "status": 2,
+        "party": {
+            "SPD": "2",
+            "CDU": "2",
+            "B90": "2",
+            "FDP": "2",
+            "PK": "2",
+            "LNK": "1",
+            "KBB": "2",
+            "FRND": "1"
+        },
+        "prio": 1
+    },
+    "REF#10": {
+        "title": "Sanierung der Orangerie",
+        "district": {
+            "name": "Volksgarten-Viertel",
+            "stvnr": "10202"
+        },
+        "description": "Die Verwaltung wird beauftragt, zu den Haushaltsplan-Beratungen 2012 die Kosten für eine Sanierung des Gebäudebestandes der Orangerie darzustellen, die den Mindestanforderungen des Denkmalschutzes entspricht",
+        "position": [
+            "50.92119",
+            "6.94942"
+        ],
+        "status": 1,
+        "party": {
+            "SPD": "1",
+            "CDU": "2",
+            "B90": "1",
+            "FDP": "2",
+            "PK": "2",
+            "LNK": "1",
+            "KBB": "2",
+            "FRND": "2"
+        },
+        "prio": 1
+    }
+    
+}
